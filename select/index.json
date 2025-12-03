@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Penguin's Detour",
+  "base_artist": "林田匠",
+  "createdAt": "2025-12-03T10:54:59.590928Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Penguin's Detour",
+      "artist": "Yu Miyashita",
+      "has_synced": true,
+      "path": "select/01_Penguin's_Detour_Yu_Miyashita.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Penguin's Detour",
+      "artist": "Yuu Miyashita",
+      "has_synced": true,
+      "path": "select/02_Penguin's_Detour_Yuu_Miyashita.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Penguin’s Detour",
+      "artist": "林田匠",
+      "has_synced": true,
+      "path": "select/03_Penguin’s_Detour_林田匠.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Penguin's Detour (feat. 初音ミク)",
+      "artist": "林田匠",
+      "has_synced": false,
+      "path": "select/pl_01_Penguin's_Detour_(feat._初音ミク)_林田匠.txt"
+    }
+  ]
+}
